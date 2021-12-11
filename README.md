@@ -191,5 +191,11 @@ Classification algorithms are used for predictive modeling problem where input t
 Where to find Day 24 post : https://medium.com/coders-mojo/day-24-60-days-of-data-science-and-machine-learning-series-a151d4c86f51?sk=3d36f199bc940b844706108b02cb581d
 
 ---------
+**Day 25 : ML Classification Project 2 ( Part 2)**
+
+Classification algorithms are used for predictive modeling problem where input training data is used to predict the probability that future data will fall into one of the predetermined/labelled categories.
+
+Where to find Day 25 post : https://medium.com/coders-mojo/day-25-60-days-of-data-science-and-machine-learning-series-5aca25ae9756?sk=93f029610eb2d595f07c3912f0c4c807
+
 
 More coming soon! Stay tuned.
